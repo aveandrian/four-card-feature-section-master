@@ -18,4 +18,4 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://github.com/aveandrian/four-card-feature-section-master/assets/13519212/5dcc086c-34ee-431a-af65-168d1156807e)
